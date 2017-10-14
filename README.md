@@ -1,0 +1,1 @@
+# TestGenForeingKeyBySimpleScriptDB
